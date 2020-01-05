@@ -1,0 +1,42 @@
+.signup-div h1 {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 5px;
+    font-size: 3em;
+}
+
+.background-div {
+    background-size: 100%;
+    background-color: rgb(190, 224, 233);    
+    /* background-position: 75% 25%; */
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: fixed;
+}
+
+.signup-div {
+    position: relative;
+    margin: auto;
+    height: 85%;
+    max-width: 300px;
+    max-height: 500px;
+    min-height: 500px;
+}
+
+.signup-form {
+    position: relative;
+    margin: auto;
+    height: 100%;   
+}
+
+.ant-form-item{
+    position: relative !important;
+    max-height: 50px !important;
+    min-height: 50px !important;
+}
+
+
+
+

@@ -1,0 +1,31 @@
+.login-div h1 {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-size: 3em;
+}
+
+.login-div {
+    position: relative;
+    max-width: 300px;
+    margin: auto;
+    height: 600px;
+    /* background-image: url("../css/images/loginBackground.jpg"); */
+    background-position: absolute;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 270%;
+    background-size: 95%;
+}
+
+.background-div {
+    height: 100%;
+    background-size: cover;
+    background-color: rgb(190, 224, 233);    
+    /* background-position: 75% 25%; */
+}
+
+
+
+
+

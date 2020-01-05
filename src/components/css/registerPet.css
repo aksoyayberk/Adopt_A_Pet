@@ -1,0 +1,39 @@
+.registerPet-div h1 {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.registerPetBackground-div {
+    background-size: 100%;
+    background-color: rgb(190, 224, 233);    
+    /* background-position: 75% 25%; */
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    padding-top: 30px;
+    position: absolute
+}
+
+.registerPet-div {
+    position: relative;
+    margin: auto;
+    height: 100%;
+    max-width: 300px; 
+}
+
+.registerPet-form {
+    position: relative;
+    margin: auto;
+    height: 100%;   
+}
+
+.ant-form-item{
+    position: relative !important;
+    max-height: 50px !important;
+    min-height: 50px !important;
+}
+
+
+
+
